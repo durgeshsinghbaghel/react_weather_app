@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/durgeshsinghbaghel/react_weather_app.git/static/css/main.b0476a91.css",
+    "main.js": "/durgeshsinghbaghel/react_weather_app.git/static/js/main.3d153801.js",
+    "static/js/787.d9312eb8.chunk.js": "/durgeshsinghbaghel/react_weather_app.git/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/durgeshsinghbaghel/react_weather_app.git/index.html",
+    "main.b0476a91.css.map": "/durgeshsinghbaghel/react_weather_app.git/static/css/main.b0476a91.css.map",
+    "main.3d153801.js.map": "/durgeshsinghbaghel/react_weather_app.git/static/js/main.3d153801.js.map",
+    "787.d9312eb8.chunk.js.map": "/durgeshsinghbaghel/react_weather_app.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0476a91.css",
+    "static/js/main.3d153801.js"
+  ]
+}
